@@ -1,6 +1,6 @@
-# My work – Reyhan Kaya
+# My work
 
-A small, living gallery for Reyhan Kaya's painting, sculpture and stained glass.
+A small, living gallery painting, sculpture and stained glass.
 
 The screen itself is an antique gilded frame. Scroll (or swipe) and the camera
 travels *into* the painting through parallax layers, until the next work opens
